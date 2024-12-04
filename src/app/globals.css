@@ -303,6 +303,7 @@ body {
     text-align: center;
     transition: all 0.3s ease;
     border: 0;
+    cursor: pointer;  
   }
   
   .hero-button:hover {
