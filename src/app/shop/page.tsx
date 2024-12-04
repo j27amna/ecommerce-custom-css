@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 interface ishopcart {
   id: number,
@@ -81,7 +82,7 @@ const page = () => {
         <div className='furniture-cart'>
           {shopcart.map((shop) => (
             <div key={shop.id} className='cart'>
-              <img src={shop.image} alt={shop.name} height="400"/>
+              <Image className="img" src={shop.image} alt={shop.name} height="400"/>
               <h3>{shop.name}</h3>
               <p><small>{shop.description}</small></p>
               <div className='price'> <b>Rs.{shop.price}</b></div>
