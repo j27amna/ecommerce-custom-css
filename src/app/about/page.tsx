@@ -19,7 +19,7 @@ Rooted in craftsmanship and innovation, Woodico combines timeless elegance with 
           <li> <b className='about-title'>Sustainability:</b> We are committed to sustainability by sourcing materials <br /> responsibly and creating designs that are both beautiful and eco-conscious.</li>
          </ul>
          <br />
-         <p className='about-title'> <em>Explore our collections and let us help you create the perfect space for every moment. <br /> At Woodico, we’re not just furnishing homes—we're crafting stories. </em></p>
+         <p className='about-title'> <em>Explore our collections and let us help you create the perfect space for every moment. <br /> At Woodico, we're not just furnishing homes—we're crafting stories. </em></p>
         </div>
       </section>
     </main>
