@@ -52,7 +52,7 @@ const page = () => {
       name: 'Study Table & Chair',
       price: 30000,
       description: "Ideal for small rooms or shared spaces, this table offers a practical solution for studying, working or hobbies.",
-      image: './images/shop6.jpg'
+      image: '/images/shop6.jpg'
     },
     {
       id: 7,
