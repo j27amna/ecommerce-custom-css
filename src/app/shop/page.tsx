@@ -16,7 +16,7 @@ const page = () => {
       id: 1,
       name: 'Cradle Chair',
       price: 30000,
-      description: "Availabe in various designs and materials, perfect for relaxation, reading or simply unwinding",
+      description: "Available in various designs and materials, perfect for relaxation, reading or simply unwinding",
       image: '/images/shop1.jpg'
     },
     {
@@ -30,14 +30,14 @@ const page = () => {
       id: 3,
       name: 'Bed',
       price: 85000,
-      description: "Tranform your bedroom with this luxurious king-size bed. Crafted with premium materials, it offers exceptional comfort & style",
+      description: "Transform your bedroom with this luxurious king-size bed. Crafted with premium materials, it offers exceptional comfort & style",
       image: '/images/shop3.jpg'
     },
     {
       id: 4,
       name: 'Night Stand',
       price: 11500,
-      description: "Solid wood nightstand made of imported larch wood, environmentally friendly and odorless",
+      description: "Solid wood nightstand made of imported larch wood, environmentally friendly and odourless",
       image: '/images/shop4.jpg'
     },
     {
@@ -65,7 +65,7 @@ const page = () => {
       id: 8,
       name: 'Velvet Chair & Ottoman',
       price: 27000,
-      description: "Avai;able in various colors",
+      description: "Available in various colours",
       image: '/images/shop8.jpg'
     },
     {
